@@ -1,0 +1,17 @@
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\bin\Debug\Zad_3_2.NET.exe.config
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\bin\Debug\Zad_3_2.NET.exe
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\bin\Debug\Zad_3_2.NET.pdb
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Zad 3 2 .NET.csproj.AssemblyReference.cache
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\MainWindow.g.cs
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\App.g.cs
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Zad_3_2.NET_MarkupCompile.cache
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Zad_3_2.NET_MarkupCompile.lref
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\MainWindow.baml
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Zad_3_2.NET.g.resources
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Zad_3_2.NET.Properties.Resources.resources
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Zad 3 2 .NET.csproj.GenerateResource.cache
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Zad 3 2 .NET.csproj.CoreCompileInputs.cache
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Zad_3_2.NET.exe
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Zad_3_2.NET.pdb
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Edytowanie.g.cs
+C:\Users\Lukasz\source\repos\Zad 3 2 .NET\Zad 3 2 .NET\obj\Debug\Edytowanie.baml
